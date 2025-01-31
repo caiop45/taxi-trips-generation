@@ -2,7 +2,7 @@ The files **synthetic_data_taxi_trip_v1** and **synthetic_data_taxi_trip_v2** ar
 
 The quality of the generated data can be evaluated through the **pickup and dropoff frequency per neighborhood**, which are stored in the **pickup_frequency** and **dropoff_frequency** files. These files allow for a comparison between synthetic and real data.  
 
-To run the code, it is necessary to **download real taxi trip data** directly from the NYC government website and process it locally.  
+To run the code, it is necessary to **download real taxi trip data** directly from the NYC government website: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 ### **Libraries Used**  
 - **Pandas**: Data manipulation (file reading, filtering, grouping, etc.).  
